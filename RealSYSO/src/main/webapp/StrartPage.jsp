@@ -39,7 +39,7 @@
                       {
                         title: 'Long Event',
                         start: '2023-01-07',
-                        end: '2023-01-10'
+                        end: '2023-01-11'
                       },
                       {
                         groupId: 999,
